@@ -730,6 +730,7 @@ padding:27px 90px;
 
 .positionstylepicture{
     position: relative;
+    z-index: -1;
 }
 .portfoliopicture{
     width: 370px;
@@ -744,7 +745,6 @@ padding:27px 90px;
     width: 100%;
     height: 102%;
     padding: 49px 45px 49px 24px;
-
    
 }
 
